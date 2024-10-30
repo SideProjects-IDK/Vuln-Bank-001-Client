@@ -1,0 +1,14 @@
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\bin\Debug\net8.0\Vulnarable-Bank-Client.exe
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\bin\Debug\net8.0\Vulnarable-Bank-Client.deps.json
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\bin\Debug\net8.0\Vulnarable-Bank-Client.runtimeconfig.json
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\bin\Debug\net8.0\Vulnarable-Bank-Client.dll
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\bin\Debug\net8.0\Vulnarable-Bank-Client.pdb
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\obj\Debug\net8.0\Vulnarable-Bank-Client.GeneratedMSBuildEditorConfig.editorconfig
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\obj\Debug\net8.0\Vulnarable-Bank-Client.AssemblyInfoInputs.cache
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\obj\Debug\net8.0\Vulnarable-Bank-Client.AssemblyInfo.cs
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\obj\Debug\net8.0\Vulnarable-Bank-Client.csproj.CoreCompileInputs.cache
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\obj\Debug\net8.0\Vulnarable-Bank-Client.dll
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\obj\Debug\net8.0\refint\Vulnarable-Bank-Client.dll
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\obj\Debug\net8.0\Vulnarable-Bank-Client.pdb
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\obj\Debug\net8.0\Vulnarable-Bank-Client.genruntimeconfig.cache
+G:\s-cat\hmZa -- CTF\Labs\Vulnarable-Bank-Client\Vulnarable-Bank-Client\obj\Debug\net8.0\ref\Vulnarable-Bank-Client.dll
